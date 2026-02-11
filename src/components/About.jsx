@@ -54,8 +54,6 @@ function About() {
   );
 }
 
-<<<<<<< HEAD
+
 export default About;
-=======
-export default About;
->>>>>>> upstream/main
+
